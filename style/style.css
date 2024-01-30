@@ -1,0 +1,236 @@
+@import url("https://fonts.googleapis.com/css2?family=Crimson+Text:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Zen+Dots&display=swap");
+
+* {
+  background: black;
+  margin: 0;
+  padding: 0;
+  color: #d1d1d1;
+}
+
+.header {
+  width: 85%;
+  margin: 0 auto;
+}
+
+.header-flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 15px;
+}
+
+.nav {
+  font-family: "Zen Dots";
+  font-size: 20px;
+}
+.nav a {
+  margin-left: 20px;
+}
+
+.abc {
+  margin-left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.img-abc {
+  height: 720px;
+}
+
+.abcd {
+  padding: 40px;
+  padding-bottom: 70px;
+  font-family: "Crimson Text", serif;
+  font-size: 48px;
+  line-height: 62px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.ticket {
+  text-align: center;
+  font-family: "Crimson Text", serif;
+  font-size: 64px;
+}
+
+.ticket-head {
+  font-family: "Zen Dots";
+}
+
+.cards {
+  display: flex;
+  justify-content: space-between;
+  width: 1350px;
+  margin: 0 auto;
+  padding-top: 35px;
+}
+
+.card {
+  background-color: #310a00;
+  width: 350px;
+  border-radius: 15px;
+  padding: 20px;
+}
+
+.card-logo {
+  background-color: #310a00;
+  width: 80%;
+  margin-top: 20px;
+}
+
+.card-img {
+  border-radius: 25px;
+  width: 100%;
+  margin-top: 20px;
+}
+
+.card-title {
+  background-color: #310a00;
+  font-size: 38px;
+}
+
+.card-sub {
+  background-color: #310a00;
+  font-size: 24px;
+}
+
+.btn-card {
+  margin: auto;
+  width: 150px;
+  margin-top: 15px;
+  border-radius: 75px;
+  background-color: black;
+  font-size: 32px;
+}
+
+.space {
+  padding: 25px;
+}
+
+.space-h1 {
+  text-align: center;
+  font-family: "Zen Dots";
+  font-size: 64px;
+}
+
+.space-cards {
+  display: flex;
+  justify-content: space-between;
+  width: 1350px;
+  margin: 0 auto;
+  padding: 70px;
+}
+
+.space-card {
+  background-color: #310a00;
+  width: 300px;
+  border-radius: 15px;
+  padding: 20px;
+}
+
+.img-space {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 200px;
+  border-radius: 30px;
+}
+
+.name {
+  text-align: center;
+  font-family: "Crimson Text", serif;
+  font-size: 38px;
+  background-color: #310a00;
+}
+
+.space-p {
+  text-align: center;
+  font-family: "Crimson Text", serif;
+  font-size: 32px;
+  background-color: #310a00;
+}
+
+.info-head {
+  text-align: center;
+  font-family: "Zen Dots";
+  font-size: 64px;
+  padding-top: 180px;
+}
+
+.info-flex {
+  display: flex;
+}
+
+.info-p {
+  padding: 25px;
+  font-size: 24px;
+}
+
+.faq {
+  padding: 25px;
+  font-size: 34px;
+}
+
+.faq-head {
+  text-align: center;
+  font-family: "Zen Dots";
+  font-size: 64px;
+}
+
+.video {
+  padding: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.footer {
+  padding: 25px;
+}
+
+.poloska {
+  width: 70%;
+  border: 1px solid #d1d1d1;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.footer-flex {
+  display: flex;
+  justify-content: space-between;
+  font-family: "Zen Dots";
+  margin-left: 85px;
+  margin-right: 85px;
+  padding-top: 20px;
+}
+
+.h1 {
+  font-size: 32px;
+}
+
+.support {
+  font-size: 18px;
+}
+
+.region {
+  font-size: 18px;
+}
+
+.footer-btn {
+  font-size: 18px;
+  text-align: center;
+}
+
+.btn-foot {
+  border-radius: 75px;
+  color: black;
+  background-color: #d9d9d9;
+  padding: 5px 20px;
+}
+
+.footer img {
+  margin-left: 85px;
+}
